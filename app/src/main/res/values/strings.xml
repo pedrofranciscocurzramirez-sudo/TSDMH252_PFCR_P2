@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TSDMH252_PFCR_P2</string>
+    <string name="Titulo">Calculadora</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="hnum1">Aqui el primer numero</string>
+    <string name="hnum2">Aqui el segundo numero</string>
+    <string name="bsumar">Sumar</string>
+    <string name="brestar">Restar</string>
+    <string name="bmultiplicar">Multiplicar</string>"
+    <string name="bdividir">Dividir</string>
+    <string name="bpotencia">Potencia</string>
+    <string name="braiz">Raiz</string>
+    <string name="bcuadrado">Cuadrado</string>
+    <string name="bN">A la N</string>
+
+</resources>
